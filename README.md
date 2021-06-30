@@ -16,11 +16,11 @@
 	Continuous Integration w/ Continuous Deployment
 
 
-# Description
+# Description :
 
 Maintain.js is a micro nodejs script meant for rapid development of any git housed project. It performs automated git commands for you in the background while you activily work on your project. This way you can just speed thru your development and not have to worry about saving changes or losing work. 
 
-# How it works 
+# How it works :
 
 Using git based commands in the background it handles commits/push/pull automatically for you. It regularly checks the project's folder for any changes and also does checks to remote server for changes without any supervision needed.
 
@@ -31,7 +31,7 @@ Using git based commands in the background it handles commits/push/pull automati
 This way you can continuously work on your project without having to worry about the teadious tasks of git commands. 
 
 
-# Presetup :
+# Preconfig :
 
 Before you can do any git command lines, you need to create a ssh key for that system. Follow the instructions from Github to accomplish it. Once you have the ssh keys setup for your system you can proceed.
 
