@@ -13,7 +13,7 @@
 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-	Continuous Integration w/ Continuous Deployment
+	Continuous Development w/ Continuous Deployment
 
 
 # Description :
