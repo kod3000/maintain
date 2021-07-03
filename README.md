@@ -31,7 +31,7 @@ By running inside your git project folder, it handles commits/push/pull for you 
 
 # Preconfig :
 
-Before this script can do any git command on your behalf; you need to make sure you have a ssh key for the system the script will be running on. [Follow the instructions from Github to accomplish it.](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) Once a github ssh key exists for your system you can proceed.
+You need a ssh key for the system the script will be running on. [Follow the instructions from Github to get it.](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 # Setup :
 
