@@ -102,6 +102,8 @@ Keep the srcipt running as long as you need it to watch over the changes you mak
 
 - This script does not yet support git lfs. Be very careful with commiting automatically single files that are over 50MB (this limit depends on the github subscription, free accounts are default at 50MB.) Github will automatically disable or archive your repo for using large files. At some point I'll setup a trigger to handle this event. If you are already using git lfs then please note, you have to mark the large file manually. After the file is marked as git lfs, the script should work as expected. Again these are basic git push/pull/commit commands that are running inside a timer, nada mas. (^_^)
 
+- Since this is a minimalist script no branch support is given. The script assumes you use the default origin/master to do all changes on. I'm not against adding branch support, its rare that I use them inside my work so I just haven't gotten around to it to implement it here. If you have a PR for this feature, throw it. 
+
 # Contributing :
 
 Refractoring of the code to make it more effecient is always on the table. The script currently is less than 260 lines of code. I'd like to make a version of it where it can do multiple git projects in one instance sometime in the future. If you have any improvements, feel free to hit up the PR.
