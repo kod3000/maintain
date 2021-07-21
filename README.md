@@ -111,3 +111,7 @@ Refractoring of the code to make it more effecient is always on the table. The s
 # Disclaimer : 
 
 Please be aware, I do not make myself responsible for how you use this script. As time passes I will continue to improve it as I use it myself for my daily work, but I do not offer support of any kind. Swim at your own risk.
+
+# Donate :
+
+![btc](https://github.com/kod3000/EventsManager/blob/d54efb0e1301a6cc1d508b8a9c571f3bb8da04b8/public/img/bitcoin.png) Bitcoin: `34zin8qyLHUcaN1E9veNoorPujaRVnr6ZZ`
